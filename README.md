@@ -1,2 +1,2 @@
 # Projeto-DDD
-Aplicação feita com C# usando conceitos de DDD (Domain Driven Design) C#. Feito durante o  Bootcamp Decola Dev Avanade.
+Projeto DDD em c# do curso da digital innovation one, bootcamp Decola Dev Avanade 2021
